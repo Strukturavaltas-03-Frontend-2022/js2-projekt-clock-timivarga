@@ -1,0 +1,17 @@
+@import url('http://fonts.cdnfonts.com/css/cyberverse');
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: #f5eeab;
+}
+
+.container{
+    font-family: 'Cyberverse', sans-serif;
+    color: #3c5891;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+}
